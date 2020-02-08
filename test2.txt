@@ -17,3 +17,10 @@ Detailed link : https://rogerdudler.github.io/git-guide/index.vi.html
 Autocompleted:
 Step 1: put git-completion.bash script to your home dir.
 Step 2: Add following to .bash_profile.
+
+
+-------------------
+BRACNH AND MERGE WITH GIT
+
+Step 1: Git branch <name> : create new branch
+Step 2: git checkout "branch name" : check out branch
