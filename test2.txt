@@ -1,1 +1,19 @@
-Chang it
+Instructions for loading GitHub
+Some basic functions:
+- terminal go to cd ....
+- git touch : create 1 file
+- git init
+- git status : show status that file checked or unchecked
+- git add
+- git commit -m "message" : save what u did into your branch
+- git remote add origin <your link> : connect your repository to remote server
+- git push origin master : push your current project on network.
+
+
+Detailed link : https://rogerdudler.github.io/git-guide/index.vi.html
+-----------------------------
+
+
+Autocompleted:
+Step 1: put git-completion.bash script to your home dir.
+Step 2: Add following to .bash_profile.
