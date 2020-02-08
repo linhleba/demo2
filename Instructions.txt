@@ -26,6 +26,7 @@ Step 1: Git branch <name> : create new branch
 Step 2: git checkout "branch name" : check out branch
 Step 3: Git merge "branch name" 
 Step 4: Git branch -d <branch name> : Delete your branch FROM LOCAL
+Step 5:
 Git push origin --delete <branch name> 
 Step 6: 
 
