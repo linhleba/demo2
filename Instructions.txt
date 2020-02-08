@@ -27,3 +27,5 @@ Step 2: git checkout "branch name" : check out branch
 Step 3: Git merge "branch name" 
 Step 4: Git branch -d <branch name> : Delete your branch FROM LOCAL
 Git push origin --delete <branch name> 
+
+No thing
