@@ -8,7 +8,7 @@ Some basic functions:
 - git commit -m "message" : save what u did into your branch
 - git remote add origin <your link> : connect your repository to remote server
 - git push origin master : push your current project on network.
-
+- git pull 
 
 Detailed link : https://rogerdudler.github.io/git-guide/index.vi.html
 -----------------------------
@@ -27,5 +27,6 @@ Step 2: git checkout "branch name" : check out branch
 Step 3: Git merge "branch name" 
 Step 4: Git branch -d <branch name> : Delete your branch FROM LOCAL
 Git push origin --delete <branch name> 
+Step 6: 
 
 No thing
